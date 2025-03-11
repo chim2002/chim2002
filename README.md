@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Induni Warnachinthaka</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chim2002&label=Profile%20views&color=0e75b6&style=flat" alt="chim2002" /> </p>
 
+ <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+ <br>
 
 - 🔭 I’m currently working on **Accommodations find a platform**
 
@@ -11,11 +14,31 @@
 
 - 🧑‍🎓 I’m an undergraduate at **SLIIT**
 
-- 💬 Ask me about **JAVA**
+- :thinking: I’m currently open for a new `job opportunity`.
 
 - 📫 How to reach me **induniwarnachinthaka@gmail.com**
 
 - ⚡ Fun fact **I can rap :/**
+
+
+<br>
+ 
+ <p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chim2002&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chim2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
