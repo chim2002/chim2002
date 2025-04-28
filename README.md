@@ -8,7 +8,7 @@
 
  <br>
 
-- 🔭 I’m currently working on **Accommodations find a platform**
+- 🔭 I’m currently working on **Accommodations find a and management platform**
 
 - 🌱 I’m currently learning **MERN**
 
