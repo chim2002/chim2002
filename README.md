@@ -8,13 +8,12 @@
 
  <br>
 
-- 🔭 I’m currently working on **Accommodations find a and management platform**
 
 - 🌱 I’m currently learning **MERN**
 
 - 🧑‍🎓 I’m an undergraduate at **SLIIT**
 
-- :thinking: I’m currently open for a new `job opportunity`.
+- :thinking: I’m currently open Working on **IFS**.
 
 - 📫 How to reach me **induniwarnachinthaka@gmail.com**
 
