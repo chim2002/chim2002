@@ -9,11 +9,11 @@
  <br>
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Python**
 
 - 🧑‍🎓 I’m an undergraduate at **SLIIT**
 
-- :thinking: I’m currently open Working on **IFS**.
+- :thinking: I’m currently Working at **IFS**.
 
 - 📫 How to reach me **induniwarnachinthaka@gmail.com**
 
